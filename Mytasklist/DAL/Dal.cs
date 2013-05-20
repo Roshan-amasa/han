@@ -16,7 +16,7 @@ namespace MyTaskListApp
         // To do: update the connection string with the DNS name
         // or IP address of your server. 
         //For example, "mongodb://testlinux.cloudapp.net"
-        private string connectionString = "mongodb://mangotest.cloudapp.net:28017";
+        private string connectionString = "mongodb://mangotest.cloudapp.net";
 
         // This sample uses a database named "Tasks" and a 
         //collection named "TasksList".  The database and collection 
