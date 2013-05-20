@@ -16,13 +16,13 @@ namespace MyTaskListApp
         // To do: update the connection string with the DNS name
         // or IP address of your server. 
         //For example, "mongodb://testlinux.cloudapp.net"
-        private string connectionString = "mongodb://mangotest.cloudapp.net";
+        private string connectionString = "mongodb://mangotest.cloudapp.net:28017";
 
         // This sample uses a database named "Tasks" and a 
         //collection named "TasksList".  The database and collection 
         //will be automatically created if they don't already exist.
-        private string dbName = "Tasks";
-        private string collectionName = "TasksList";
+        private string dbName = "Test";
+        private string collectionName = "Roshan";
 
         // Default constructor.        
         public Dal()
