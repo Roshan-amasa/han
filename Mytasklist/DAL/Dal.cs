@@ -21,8 +21,8 @@ namespace MyTaskListApp
         // This sample uses a database named "Tasks" and a 
         //collection named "TasksList".  The database and collection 
         //will be automatically created if they don't already exist.
-        private string dbName = "Test";
-        private string collectionName = "Roshan";
+        private string dbName = "test";
+        private string collectionName = "roshan";
 
         // Default constructor.        
         public Dal()
