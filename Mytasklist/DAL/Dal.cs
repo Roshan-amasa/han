@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Mytasklist.Models;
+using MyTaskListApp.Models;
 using MongoDB.Driver;
 using System.Configuration;
 
@@ -16,14 +16,15 @@ namespace MyTaskListApp
         // To do: update the connection string with the DNS name
         // or IP address of your server. 
         //For example, "mongodb://testlinux.cloudapp.net"
-        private string connectionString = "mongodb://mangotest.cloudapp.net";
+        private string connectionString = "mongodb://168.63.97.223";
 
         // This sample uses a database named "Tasks" and a 
         //collection named "TasksList".  The database and collection 
         //will be automatically created if they don't already exist.
-        private string dbName = "test";
-        private string collectionName = "roshan";
-
+        //private string dbName = "task";
+        //private string collectionName = "events";
+        private string dbName = "Tasks";
+        private string collectionName = "TasksList";
         // Default constructor.        
         public Dal()
         {

@@ -5,9 +5,10 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.Security;
+using MyTaskListApp.Models;
 using Mytasklist.Models;
 
-namespace Mytasklist.Controllers
+namespace MyTaskListApp.Controllers
 {
     public class AccountController : Controller
     {

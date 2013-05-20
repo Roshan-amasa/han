@@ -1,13 +1,3 @@
-c:\work\Mytasklist\Mytasklist\bin\Mytasklist.dll
-c:\work\Mytasklist\Mytasklist\bin\Mytasklist.pdb
-c:\work\Mytasklist\Mytasklist\bin\EntityFramework.dll
-c:\work\Mytasklist\Mytasklist\bin\MongoDB.Bson.dll
-c:\work\Mytasklist\Mytasklist\bin\MongoDB.Driver.dll
-c:\work\Mytasklist\Mytasklist\bin\EntityFramework.xml
-c:\work\Mytasklist\Mytasklist\bin\MongoDB.Bson.xml
-c:\work\Mytasklist\Mytasklist\bin\MongoDB.Driver.xml
-c:\work\Mytasklist\Mytasklist\obj\Debug\Mytasklist.dll
-c:\work\Mytasklist\Mytasklist\obj\Debug\Mytasklist.pdb
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\bin\Mytasklist.dll
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\bin\Mytasklist.pdb
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\bin\EntityFramework.dll
@@ -16,6 +6,5 @@ C:\Users\roshan\Documents\GitHub\han\Mytasklist\bin\MongoDB.Driver.dll
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\bin\EntityFramework.xml
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\bin\MongoDB.Bson.xml
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\bin\MongoDB.Driver.xml
-C:\Users\roshan\Documents\GitHub\han\Mytasklist\obj\Debug\Mytasklist.csprojResolveAssemblyReference.cache
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\obj\Debug\Mytasklist.dll
 C:\Users\roshan\Documents\GitHub\han\Mytasklist\obj\Debug\Mytasklist.pdb

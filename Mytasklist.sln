@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mytasklist", "Mytasklist\Mytasklist.csproj", "{B1C7B476-C0E2-46E8-9499-375D06689B77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTaskListApp", "Mytasklist\MyTaskListApp.csproj", "{B1C7B476-C0E2-46E8-9499-375D06689B77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
